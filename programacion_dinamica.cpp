@@ -8,7 +8,7 @@
 #include "programacion_dinamica.hpp"
 using namespace std;
 
-void ImprimirTablaDP(const vector<vector<int>>& TablaDP) {
+/*void ImprimirTablaDP(const vector<vector<int>>& TablaDP) {
     // Iterar sobre las filas de la matriz
     for (size_t i = 0; i < TablaDP.size(); ++i) {
         // Iterar sobre las columnas de la fila actual
@@ -19,7 +19,7 @@ void ImprimirTablaDP(const vector<vector<int>>& TablaDP) {
         // Saltar a la siguiente línea después de cada fila
         cout << endl;
     }
-}
+}*/
 
 int EdicionMinimaDP(const string& cadena1, const string& cadena2){
     int size1 = cadena1.length();
@@ -38,15 +38,15 @@ int EdicionMinimaDP(const string& cadena1, const string& cadena2){
             if(cadena1[i-1] == cadena2[j-1]) TablaDP[i][j] = TablaDP[i-1][j-1];
 
             int insert = TablaDP[i][j-1] + costo_ins(cadena2[j-1]);
-            int del = TablaDP[i-1][j] + costo_del(cadena2[i-1]);
+            int del = TablaDP[i-1][j] + costo_del(cadena1[i-1]);
             int sust = TablaDP[i-1][j-1] + costo_sub(cadena1[i-1], cadena2[j-1]);
-            int trans = INT_MAX;
+            int trans = 1000000000;
             if(i > 1 && j > 1 && cadena1[i - 1] == cadena2[j - 2] && cadena1[i - 2] == cadena2[j - 1]){
                 trans = TablaDP[i-2][j-2] + costo_trans(cadena1[i-2], cadena1[i-1]);
             }
             TablaDP[i][j] = min({insert, del, sust, trans});
         }
     }
-    ImprimirTablaDP(TablaDP);
+    //ImprimirTablaDP(TablaDP);
     return TablaDP[size1][size2];
 }

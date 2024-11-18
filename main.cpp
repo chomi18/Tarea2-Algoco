@@ -7,6 +7,38 @@
 using namespace std;
 using namespace std::chrono;
 
+void ProcesarCasos(const string& archivo_entrada, const string& archivo_salida) {
+    ifstream input(archivo_entrada);
+    ofstream output(archivo_salida);
+
+    string linea;
+    while (getline(input, linea)) {
+        size_t coma = linea.find(',');
+        if (coma == string::npos) continue;  // Salta líneas inválidas
+
+        string cadena1 = linea.substr(0, coma);
+        string cadena2 = linea.substr(coma + 1);
+
+        auto inicio = steady_clock::now();
+        int costoBF = EdicionMinimaBF(cadena1, cadena2, 0, 0);
+        auto fin = steady_clock::now();
+        auto duracionBF = duration_cast<microseconds>(fin - inicio).count();
+
+        inicio = steady_clock::now();
+        int costoDP = EdicionMinimaDP(cadena1, cadena2);
+        fin = steady_clock::now();
+        auto duracionDP = duration_cast<microseconds>(fin - inicio).count();
+
+        output << "Cadena1: " << cadena1 << ", Cadena2: " << cadena2 << endl;
+        output << "Costo BF: " << costoBF << ", Tiempo BF: " << duracionBF << " microseconds" << endl;
+        output << "Costo DP: " << costoDP << ", Tiempo DP: " << duracionDP << " microseconds" << endl;
+        output << "-------------------------------------" << endl;
+    }
+
+    input.close();
+    output.close();
+}
+
 int main(){
     string archivo1 = "cost_insert.txt";
     string archivo2 = "cost_delete.txt";
@@ -21,25 +53,12 @@ int main(){
     ImprimirCostosSustitucion();
     ImprimirCostosTransponer();*/
 
-    string cadena1;
-    string cadena2;
-    getline(cin, cadena1);
-    getline(cin, cadena2);
+     string archivo_casos = "casos_prueba.txt";
+    string archivo_resultados = "resultados.txt";
 
-    auto inicio = steady_clock::now();
-    cout << EdicionMinimaBF(cadena1, cadena2, 0, 0) << endl;
-    auto fin = steady_clock::now();
+    ProcesarCasos(archivo_casos, archivo_resultados);
 
-    auto duracion = duration_cast<milliseconds>(fin - inicio);
-    cout << "Edición mínima por fuerza bruta tuvo una duración de " << duracion.count() << " milisegundos" << endl;
-
-    inicio = steady_clock::now();
-    cout << EdicionMinimaDP(cadena1, cadena2) << endl;
-    fin = steady_clock::now();
-
-    duracion = duration_cast<milliseconds>(fin - inicio);
-    cout << "Edición mínima por programación Dinámica tuvo una duración de " << duracion.count() << " milisegundos" << endl;
-
-
+    cout << "Resultados guardados en " << archivo_resultados << endl;
+    return 0;
 
 }

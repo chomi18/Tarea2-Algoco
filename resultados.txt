@@ -1,0 +1,400 @@
+Cadena1: , Cadena2: bp
+Costo BF: 4, Tiempo BF: 2 microseconds
+Costo DP: 4, Tiempo DP: 3 microseconds
+-------------------------------------
+Cadena1: xt, Cadena2: 
+Costo BF: 0, Tiempo BF: 8 microseconds
+Costo DP: 0, Tiempo DP: 6 microseconds
+-------------------------------------
+Cadena1: , Cadena2: xr
+Costo BF: 4, Tiempo BF: 2 microseconds
+Costo DP: 4, Tiempo DP: 2 microseconds
+-------------------------------------
+Cadena1: , Cadena2: hzi
+Costo BF: 10, Tiempo BF: 2 microseconds
+Costo DP: 10, Tiempo DP: 3 microseconds
+-------------------------------------
+Cadena1: kse, Cadena2: 
+Costo BF: 4, Tiempo BF: 9 microseconds
+Costo DP: 4, Tiempo DP: 6 microseconds
+-------------------------------------
+Cadena1: , Cadena2: leqz
+Costo BF: 14, Tiempo BF: 2 microseconds
+Costo DP: 14, Tiempo DP: 3 microseconds
+-------------------------------------
+Cadena1: pdih, Cadena2: 
+Costo BF: 6, Tiempo BF: 12 microseconds
+Costo DP: 6, Tiempo DP: 8 microseconds
+-------------------------------------
+Cadena1: , Cadena2: lwgd
+Costo BF: 12, Tiempo BF: 1 microseconds
+Costo DP: 12, Tiempo DP: 2 microseconds
+-------------------------------------
+Cadena1: qfcwd, Cadena2: 
+Costo BF: 11, Tiempo BF: 16 microseconds
+Costo DP: 11, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: , Cadena2: cvzlv
+Costo BF: 13, Tiempo BF: 2 microseconds
+Costo DP: 13, Tiempo DP: 3 microseconds
+-------------------------------------
+Cadena1: , Cadena2: pallhe
+Costo BF: 21, Tiempo BF: 2 microseconds
+Costo DP: 21, Tiempo DP: 3 microseconds
+-------------------------------------
+Cadena1: , Cadena2: oucoem
+Costo BF: 16, Tiempo BF: 3 microseconds
+Costo DP: 16, Tiempo DP: 3 microseconds
+-------------------------------------
+Cadena1: fjhgqd, Cadena2: 
+Costo BF: 15, Tiempo BF: 18 microseconds
+Costo DP: 15, Tiempo DP: 11 microseconds
+-------------------------------------
+Cadena1: ilyjaxi, Cadena2: 
+Costo BF: 14, Tiempo BF: 24 microseconds
+Costo DP: 14, Tiempo DP: 13 microseconds
+-------------------------------------
+Cadena1: , Cadena2: tpjbjiq
+Costo BF: 19, Tiempo BF: 3 microseconds
+Costo DP: 19, Tiempo DP: 4 microseconds
+-------------------------------------
+Cadena1: nepmibxu, Cadena2: 
+Costo BF: 17, Tiempo BF: 26 microseconds
+Costo DP: 17, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: dsniksar, Cadena2: 
+Costo BF: 19, Tiempo BF: 24 microseconds
+Costo DP: 19, Tiempo DP: 13 microseconds
+-------------------------------------
+Cadena1: , Cadena2: dmraiumt
+Costo BF: 17, Tiempo BF: 3 microseconds
+Costo DP: 17, Tiempo DP: 4 microseconds
+-------------------------------------
+Cadena1: , Cadena2: pyjorlzzm
+Costo BF: 27, Tiempo BF: 3 microseconds
+Costo DP: 27, Tiempo DP: 4 microseconds
+-------------------------------------
+Cadena1: , Cadena2: ghiwnwahj
+Costo BF: 27, Tiempo BF: 3 microseconds
+Costo DP: 27, Tiempo DP: 4 microseconds
+-------------------------------------
+Cadena1: mo, Cadena2: mppo
+Costo BF: 5, Tiempo BF: 46 microseconds
+Costo DP: 5, Tiempo DP: 13 microseconds
+-------------------------------------
+Cadena1: cl, Cadena2: cppppl
+Costo BF: 13, Tiempo BF: 52 microseconds
+Costo DP: 13, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: zz, Cadena2: zggz
+Costo BF: 7, Tiempo BF: 36 microseconds
+Costo DP: 7, Tiempo DP: 13 microseconds
+-------------------------------------
+Cadena1: lby, Cadena2: lddddby
+Costo BF: 11, Tiempo BF: 631 microseconds
+Costo DP: 11, Tiempo DP: 25 microseconds
+-------------------------------------
+Cadena1: hrj, Cadena2: hssrj
+Costo BF: 1, Tiempo BF: 254 microseconds
+Costo DP: 1, Tiempo DP: 22 microseconds
+-------------------------------------
+Cadena1: xowf, Cadena2: xommmwf
+Costo BF: 2, Tiempo BF: 1454 microseconds
+Costo DP: 2, Tiempo DP: 23 microseconds
+-------------------------------------
+Cadena1: flav, Cadena2: flmmav
+Costo BF: 1, Tiempo BF: 1448 microseconds
+Costo DP: 1, Tiempo DP: 32 microseconds
+-------------------------------------
+Cadena1: tjhi, Cadena2: tjvvvhi
+Costo BF: 8, Tiempo BF: 1850 microseconds
+Costo DP: 8, Tiempo DP: 21 microseconds
+-------------------------------------
+Cadena1: bodcc, Cadena2: boaaadcc
+Costo BF: 2, Tiempo BF: 8381 microseconds
+Costo DP: 2, Tiempo DP: 28 microseconds
+-------------------------------------
+Cadena1: mffbl, Cadena2: mfvvvvfbl
+Costo BF: 11, Tiempo BF: 14482 microseconds
+Costo DP: 11, Tiempo DP: 31 microseconds
+-------------------------------------
+Cadena1: qpxfud, Cadena2: qpxrrfud
+Costo BF: 3, Tiempo BF: 27409 microseconds
+Costo DP: 3, Tiempo DP: 37 microseconds
+-------------------------------------
+Cadena1: uyowgq, Cadena2: uyooowgq
+Costo BF: 5, Tiempo BF: 33326 microseconds
+Costo DP: 5, Tiempo DP: 33 microseconds
+-------------------------------------
+Cadena1: naonlt, Cadena2: naohhnlt
+Costo BF: 7, Tiempo BF: 25180 microseconds
+Costo DP: 7, Tiempo DP: 34 microseconds
+-------------------------------------
+Cadena1: jktwkmz, Cadena2: jktwwwwkmz
+Costo BF: 5, Tiempo BF: 315111 microseconds
+Costo DP: 5, Tiempo DP: 55 microseconds
+-------------------------------------
+Cadena1: nbjrmkg, Cadena2: nbjlllrmkg
+Costo BF: 10, Tiempo BF: 290706 microseconds
+Costo DP: 10, Tiempo DP: 48 microseconds
+-------------------------------------
+Cadena1: yjsxiuwq, Cadena2: yjsxmmiuwq
+Costo BF: 1, Tiempo BF: 883999 microseconds
+Costo DP: 1, Tiempo DP: 59 microseconds
+-------------------------------------
+Cadena1: zglnykth, Cadena2: zglnzzykth
+Costo BF: 5, Tiempo BF: 850200 microseconds
+Costo DP: 5, Tiempo DP: 109 microseconds
+-------------------------------------
+Cadena1: jecrbkmy, Cadena2: jecrnnbkmy
+Costo BF: 4, Tiempo BF: 941968 microseconds
+Costo DP: 4, Tiempo DP: 68 microseconds
+-------------------------------------
+Cadena1: wthzvxgsg, Cadena2: wthzmmvxgs
+Costo BF: 1, Tiempo BF: 2619625 microseconds
+Costo DP: 1, Tiempo DP: 69 microseconds
+-------------------------------------
+Cadena1: bcxikypxk, Cadena2: bcxiuukypx
+Costo BF: 7, Tiempo BF: 2749326 microseconds
+Costo DP: 7, Tiempo DP: 57 microseconds
+-------------------------------------
+Cadena1: pw, Cadena2: wp
+Costo BF: 0, Tiempo BF: 14 microseconds
+Costo DP: 0, Tiempo DP: 6 microseconds
+-------------------------------------
+Cadena1: hz, Cadena2: zh
+Costo BF: 1, Tiempo BF: 13 microseconds
+Costo DP: 1, Tiempo DP: 5 microseconds
+-------------------------------------
+Cadena1: wp, Cadena2: pw
+Costo BF: 2, Tiempo BF: 13 microseconds
+Costo DP: 2, Tiempo DP: 6 microseconds
+-------------------------------------
+Cadena1: pwv, Cadena2: wpv
+Costo BF: 0, Tiempo BF: 54 microseconds
+Costo DP: 0, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: vuo, Cadena2: ouv
+Costo BF: 4, Tiempo BF: 53 microseconds
+Costo DP: 4, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: gixn, Cadena2: nixg
+Costo BF: 8, Tiempo BF: 238 microseconds
+Costo DP: 8, Tiempo DP: 14 microseconds
+-------------------------------------
+Cadena1: wlqm, Cadena2: wmql
+Costo BF: 3, Tiempo BF: 236 microseconds
+Costo DP: 3, Tiempo DP: 15 microseconds
+-------------------------------------
+Cadena1: qnkq, Cadena2: knqq
+Costo BF: 2, Tiempo BF: 235 microseconds
+Costo DP: 2, Tiempo DP: 14 microseconds
+-------------------------------------
+Cadena1: xrwpw, Cadena2: wrwpx
+Costo BF: 5, Tiempo BF: 1456 microseconds
+Costo DP: 5, Tiempo DP: 21 microseconds
+-------------------------------------
+Cadena1: mjkvp, Cadena2: mvkjp
+Costo BF: 5, Tiempo BF: 1379 microseconds
+Costo DP: 5, Tiempo DP: 21 microseconds
+-------------------------------------
+Cadena1: oyxhdt, Cadena2: odxhyt
+Costo BF: 2, Tiempo BF: 6943 microseconds
+Costo DP: 2, Tiempo DP: 29 microseconds
+-------------------------------------
+Cadena1: ebrljy, Cadena2: ebjlry
+Costo BF: 5, Tiempo BF: 7559 microseconds
+Costo DP: 5, Tiempo DP: 27 microseconds
+-------------------------------------
+Cadena1: kbxrco, Cadena2: kbxroc
+Costo BF: 1, Tiempo BF: 6182 microseconds
+Costo DP: 1, Tiempo DP: 25 microseconds
+-------------------------------------
+Cadena1: igxtaoj, Cadena2: igxoatj
+Costo BF: 4, Tiempo BF: 43053 microseconds
+Costo DP: 4, Tiempo DP: 34 microseconds
+-------------------------------------
+Cadena1: aewmnve, Cadena2: vewmnae
+Costo BF: 3, Tiempo BF: 37616 microseconds
+Costo DP: 3, Tiempo DP: 38 microseconds
+-------------------------------------
+Cadena1: vzrtxxgw, Cadena2: vzrgxxtw
+Costo BF: 3, Tiempo BF: 221920 microseconds
+Costo DP: 3, Tiempo DP: 53 microseconds
+-------------------------------------
+Cadena1: uaeffyrd, Cadena2: uaeffdry
+Costo BF: 2, Tiempo BF: 238544 microseconds
+Costo DP: 2, Tiempo DP: 49 microseconds
+-------------------------------------
+Cadena1: axeozvuo, Cadena2: axevzouo
+Costo BF: 5, Tiempo BF: 257057 microseconds
+Costo DP: 5, Tiempo DP: 86 microseconds
+-------------------------------------
+Cadena1: dggybftvh, Cadena2: tggybfdvh
+Costo BF: 4, Tiempo BF: 1420073 microseconds
+Costo DP: 4, Tiempo DP: 52 microseconds
+-------------------------------------
+Cadena1: fccyksbpc, Cadena2: fccyksbpc
+Costo BF: -1, Tiempo BF: 1252059 microseconds
+Costo DP: -1, Tiempo DP: 50 microseconds
+-------------------------------------
+Cadena1: mh, Cadena2: yc
+Costo BF: 3, Tiempo BF: 13 microseconds
+Costo DP: 3, Tiempo DP: 7 microseconds
+-------------------------------------
+Cadena1: uv, Cadena2: zz
+Costo BF: 4, Tiempo BF: 13 microseconds
+Costo DP: 4, Tiempo DP: 6 microseconds
+-------------------------------------
+Cadena1: mb, Cadena2: vi
+Costo BF: 4, Tiempo BF: 12 microseconds
+Costo DP: 4, Tiempo DP: 5 microseconds
+-------------------------------------
+Cadena1: vhn, Cadena2: ycr
+Costo BF: 3, Tiempo BF: 49 microseconds
+Costo DP: 3, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: aer, Cadena2: xzy
+Costo BF: 8, Tiempo BF: 52 microseconds
+Costo DP: 8, Tiempo DP: 9 microseconds
+-------------------------------------
+Cadena1: wpdc, Cadena2: xoti
+Costo BF: 10, Tiempo BF: 223 microseconds
+Costo DP: 10, Tiempo DP: 15 microseconds
+-------------------------------------
+Cadena1: gpig, Cadena2: lhnk
+Costo BF: 10, Tiempo BF: 234 microseconds
+Costo DP: 10, Tiempo DP: 14 microseconds
+-------------------------------------
+Cadena1: loys, Cadena2: criz
+Costo BF: 8, Tiempo BF: 256 microseconds
+Costo DP: 8, Tiempo DP: 15 microseconds
+-------------------------------------
+Cadena1: wnbaa, Cadena2: vgcsm
+Costo BF: 8, Tiempo BF: 1314 microseconds
+Costo DP: 8, Tiempo DP: 36 microseconds
+-------------------------------------
+Cadena1: vkoln, Cadena2: jrqja
+Costo BF: 9, Tiempo BF: 1233 microseconds
+Costo DP: 9, Tiempo DP: 20 microseconds
+-------------------------------------
+Cadena1: rjfqjc, Cadena2: ybrfit
+Costo BF: 12, Tiempo BF: 6881 microseconds
+Costo DP: 12, Tiempo DP: 27 microseconds
+-------------------------------------
+Cadena1: psmvdf, Cadena2: xoekhn
+Costo BF: 11, Tiempo BF: 6631 microseconds
+Costo DP: 11, Tiempo DP: 34 microseconds
+-------------------------------------
+Cadena1: wxeicd, Cadena2: lcjmtk
+Costo BF: 13, Tiempo BF: 6416 microseconds
+Costo DP: 13, Tiempo DP: 28 microseconds
+-------------------------------------
+Cadena1: hnxfuhc, Cadena2: snczkcc
+Costo BF: 9, Tiempo BF: 34322 microseconds
+Costo DP: 9, Tiempo DP: 33 microseconds
+-------------------------------------
+Cadena1: hwneejo, Cadena2: woliwjd
+Costo BF: 13, Tiempo BF: 36149 microseconds
+Costo DP: 13, Tiempo DP: 43 microseconds
+-------------------------------------
+Cadena1: djgjsyzv, Cadena2: rofjmtqo
+Costo BF: 12, Tiempo BF: 224505 microseconds
+Costo DP: 12, Tiempo DP: 43 microseconds
+-------------------------------------
+Cadena1: sqszobau, Cadena2: munwchjd
+Costo BF: 17, Tiempo BF: 196394 microseconds
+Costo DP: 17, Tiempo DP: 42 microseconds
+-------------------------------------
+Cadena1: vexffdgi, Cadena2: dgiudnvp
+Costo BF: 17, Tiempo BF: 201736 microseconds
+Costo DP: 17, Tiempo DP: 40 microseconds
+-------------------------------------
+Cadena1: vjspvygpa, Cadena2: wamrkrfuw
+Costo BF: 12, Tiempo BF: 1182584 microseconds
+Costo DP: 12, Tiempo DP: 53 microseconds
+-------------------------------------
+Cadena1: tepxsyjwk, Cadena2: kcwuzkrqj
+Costo BF: 13, Tiempo BF: 1214217 microseconds
+Costo DP: 13, Tiempo DP: 56 microseconds
+-------------------------------------
+Cadena1: sr, Cadena2: sh
+Costo BF: 1, Tiempo BF: 19 microseconds
+Costo DP: 1, Tiempo DP: 5 microseconds
+-------------------------------------
+Cadena1: zn, Cadena2: zj
+Costo BF: 0, Tiempo BF: 11 microseconds
+Costo DP: 0, Tiempo DP: 5 microseconds
+-------------------------------------
+Cadena1: hn, Cadena2: ht
+Costo BF: 0, Tiempo BF: 21 microseconds
+Costo DP: 0, Tiempo DP: 10 microseconds
+-------------------------------------
+Cadena1: pne, Cadena2: pol
+Costo BF: 5, Tiempo BF: 48 microseconds
+Costo DP: 5, Tiempo DP: 9 microseconds
+-------------------------------------
+Cadena1: tfe, Cadena2: tmi
+Costo BF: 4, Tiempo BF: 83 microseconds
+Costo DP: 4, Tiempo DP: 16 microseconds
+-------------------------------------
+Cadena1: fmlc, Cadena2: fmyr
+Costo BF: 4, Tiempo BF: 239 microseconds
+Costo DP: 4, Tiempo DP: 14 microseconds
+-------------------------------------
+Cadena1: lojl, Cadena2: louk
+Costo BF: 5, Tiempo BF: 229 microseconds
+Costo DP: 5, Tiempo DP: 14 microseconds
+-------------------------------------
+Cadena1: nngc, Cadena2: nozl
+Costo BF: 7, Tiempo BF: 236 microseconds
+Costo DP: 7, Tiempo DP: 12 microseconds
+-------------------------------------
+Cadena1: irnjz, Cadena2: ipvny
+Costo BF: 6, Tiempo BF: 1387 microseconds
+Costo DP: 6, Tiempo DP: 20 microseconds
+-------------------------------------
+Cadena1: dcmzr, Cadena2: dmfxy
+Costo BF: 9, Tiempo BF: 1292 microseconds
+Costo DP: 9, Tiempo DP: 20 microseconds
+-------------------------------------
+Cadena1: kuhcax, Cadena2: kuhhbv
+Costo BF: 2, Tiempo BF: 7015 microseconds
+Costo DP: 2, Tiempo DP: 28 microseconds
+-------------------------------------
+Cadena1: nxhstj, Cadena2: nxhbrw
+Costo BF: 4, Tiempo BF: 6474 microseconds
+Costo DP: 4, Tiempo DP: 26 microseconds
+-------------------------------------
+Cadena1: lwmpfz, Cadena2: lwvugv
+Costo BF: 10, Tiempo BF: 7499 microseconds
+Costo DP: 10, Tiempo DP: 31 microseconds
+-------------------------------------
+Cadena1: kmufbgd, Cadena2: keswsak
+Costo BF: 13, Tiempo BF: 34222 microseconds
+Costo DP: 13, Tiempo DP: 38 microseconds
+-------------------------------------
+Cadena1: iisvevl, Cadena2: iipmfog
+Costo BF: 12, Tiempo BF: 47528 microseconds
+Costo DP: 12, Tiempo DP: 38 microseconds
+-------------------------------------
+Cadena1: ustzzdqs, Cadena2: upqkvgro
+Costo BF: 15, Tiempo BF: 230598 microseconds
+Costo DP: 15, Tiempo DP: 50 microseconds
+-------------------------------------
+Cadena1: xhiiwrbf, Cadena2: xhihoyvt
+Costo BF: 13, Tiempo BF: 219719 microseconds
+Costo DP: 13, Tiempo DP: 49 microseconds
+-------------------------------------
+Cadena1: fruanmwf, Cadena2: fruumsal
+Costo BF: 9, Tiempo BF: 210693 microseconds
+Costo DP: 9, Tiempo DP: 43 microseconds
+-------------------------------------
+Cadena1: osjlmtopa, Cadena2: osjnqarde
+Costo BF: 10, Tiempo BF: 1118179 microseconds
+Costo DP: 10, Tiempo DP: 58 microseconds
+-------------------------------------
+Cadena1: dacscprph, Cadena2: dacsjxbum
+Costo BF: 10, Tiempo BF: 1167728 microseconds
+Costo DP: 10, Tiempo DP: 51 microseconds
+-------------------------------------
