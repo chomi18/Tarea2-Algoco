@@ -10,3 +10,4 @@ Consideraciones importantes de los archivos utilizados en esta tarea:
 - Los archivos .py generan archivos correspondientes, o en caso contrario los gráficos
   - creacion_cadena.py se cambian los parámetros para variar el tamaño de las cadenas, o la cantidad de testeos por caso.
   - creación_costos.py crea los archivos de costos, se le cambian los parametros para variar los rangos de los costos.
+- Importante tener todo dentro de la misma carpeta para que pueda funcionar de manera correcta y no genere ningún problema de referencia.
